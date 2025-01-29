@@ -1,0 +1,55 @@
+* { 
+    box-sizing: border-box;
+  }
+  
+  body {
+    background-image: url('rubikscube.jpg');
+    background-repeat: repeat-y;
+    background-position: right;
+  }
+  
+  article {
+    width: 80%;
+    margin: auto;
+  }
+  
+  section {
+    width: 39vw;
+    overflow: auto;
+    border: 1px darkred solid;
+    float: left;
+    background-color: yellow;
+  }
+  
+  h1 {
+    text-align: center;
+    background-color: #000000;
+    color: white;
+    font-family: ;
+    padding: 10px 15px;
+    margin-bottom: 20px;
+    margin-top: 0px;
+    border: 2px darkred solid;
+  }
+  
+  p {
+    text-align: justify;
+    margin: 20px;
+    background-color: hsl(0,0%,100%);
+    font-style: italic;
+  }
+  
+  span {
+    font-weight: bold;
+    font-style: italic;
+    margin-left: 2px;
+    margin-right: 5px;
+    color: rgb(255,100,120)
+  }
+  
+  iframe {
+    float: left;
+    border: 1px darkred solid;
+  }
+  
+  
